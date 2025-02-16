@@ -79,9 +79,6 @@ python main.py
 ## **🤝 Contributing**
 Feel free to contribute to the project by submitting a **pull request** or reporting an issue! 🚀
 
-## **📜 License**
-This project is licensed under the **MIT License**.
-
 ---
 ### **💡 Author:**
-Your Name – [GitHub Profile](https://github.com/your-profile)
+Your Name – [LOKESHGOPAL21](https://github.com/LOKESHGOPAL21)
